@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.8)  21 JUL 2016 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.18)  21 JUL 2016 23:49
 entering extended mode
 **C:/Users/taddy/project/taddylab.github.io/vita/cv.tex
 (C:/Users/taddy/project/taddylab.github.io/vita/cv.tex
@@ -82,21 +82,21 @@ LaTeX Font Info:    Try loading font information for OT1+phv on input line 206.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 ) [3]
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 309.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 319.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 309.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 319.
  [4] [5] ) 
 Here is how much of TeX's memory you used:
  452 strings out of 493335
- 5464 string characters out of 3139261
+ 5464 string characters out of 3139260
  60508 words of memory out of 3000000
  4037 multiletter control sequences out of 15000+200000
  17994 words of font info for 34 fonts, out of 3000000 for 9000
@@ -108,7 +108,7 @@ s/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cv.pdf (5 pages, 91087 bytes).
+Output written on cv.pdf (5 pages, 91330 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
