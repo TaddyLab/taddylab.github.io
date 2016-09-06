@@ -2097,7 +2097,7 @@
 	#header {
 		position: relative;
 		/*background-image: url("../../images/header.jpg");*/
-		background: #010110;
+		background: #000015;
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2173,7 +2173,7 @@
 	}
 
 		body.homepage #header h1 {
-			font-size: 3em;
+			font-size: 3.5em;
 		}
 
 		body.homepage #header:after {
