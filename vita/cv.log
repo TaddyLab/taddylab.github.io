@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.16)  27 SEP 2016 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.16)  31 OCT 2016 10:58
 entering extended mode
 **C:/Users/taddy/project/taddylab.github.io/vita/cv.tex
 (C:/Users/taddy/project/taddylab.github.io/vita/cv.tex
@@ -73,28 +73,28 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 296.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 303.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 329.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 336.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 329.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 336.
  [4] [5]
 [6] ) 
 Here is how much of TeX's memory you used:
@@ -104,7 +104,7 @@ Here is how much of TeX's memory you used:
  4038 multiletter control sequences out of 15000+200000
  17994 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,289b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,21p,304b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files 
@@ -112,7 +112,7 @@ am Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/u
 rw/times/utmri8a.pfb>
-Output written on cv.pdf (6 pages, 88844 bytes).
+Output written on cv.pdf (6 pages, 89152 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
