@@ -34,7 +34,7 @@ naiveml <- gamlr(x=cBind(xtreat*log(beer$price), xx),
 				free=1, standardize=FALSE)
 naiveb <- coef(naiveml)
 naiveel <- drop(naiveb[2,1] + xtest%*%naiveb[(1:ncol(xtext))+2,] )
-hist(naiveml)
+hist(naiveel)
 
 # Orthogonal ML insteal
 # OML steps 1-2
